@@ -13,3 +13,12 @@ Function.java:
 
 Pair.java:
  2つのArrayList型配列をまとめた型であるPairを定義したクラス
+
+
+実行結果:
+Original numbers:
+0 1 3 4 6 7 9 10 12 13 15 16 18 19 21 22 24 25 27 28 
+Even numbers:
+0 4 6 10 12 16 18 22 24 28 
+Odd numbers:
+1 3 7 9 13 15 19 21 25 27 
